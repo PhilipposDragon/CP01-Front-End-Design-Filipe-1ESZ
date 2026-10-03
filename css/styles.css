@@ -74,9 +74,10 @@ p {
 }
 
 .banner {
-    
+    text-align: center;
+    margin: var(--spacing-md);
+
     img {
-        text-align: center;
         border-width: var(--border-width-lg);
         border-style: solid;
         border-color: var(--color-white);
