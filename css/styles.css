@@ -74,9 +74,9 @@ p {
 }
 
 .banner {
-    text-align: center;
-
+    
     img {
+        text-align: center;
         border-width: var(--border-width-lg);
         border-style: solid;
         border-color: var(--color-white);
