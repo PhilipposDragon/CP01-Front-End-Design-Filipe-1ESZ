@@ -112,6 +112,7 @@ p {
 
 .imagens {
     text-align: center;
+    margin: var(--spacing-md);
     
     img {
         margin: var(--spacing-md);
